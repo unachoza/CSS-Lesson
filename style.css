@@ -1,9 +1,19 @@
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFg3vl-KY9ZdyqE0bSsSdHLC0Avm7S0VRpaLC6zd6wcinHdHz');
+    background-size: cover; 
+}
 h2{
-    color: red;
+    color: #AA4139;
+    text-align: center;
+    border: solid 5px rgba(255, 176, 170, .5);
+    cursor: pointer;
 }
 p{
-    color: pink;
+    color: green;
 }
-header{
-    background-color: green;
+
+li {
+    list-style-type: none;
+    display: inline-block;
 }
